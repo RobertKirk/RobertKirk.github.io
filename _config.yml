@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Misinterpretability
+author: Robert Kirk
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about AI, Machine learning, AI safety, Reinforcement Learning, Interpretability and who knows what else.
 baseurl: "" # the subpath of your site, e.g. /blog
