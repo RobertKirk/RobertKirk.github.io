@@ -24,12 +24,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   A blog about AI, Machine learning, AI safety, Reinforcement Learning, Interpretability and who knows what else.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  RobertKirk
-linkedin_username:  robert-kirk-62264913a
+github_username: RobertKirk
+linkedin_username: robert-kirk-62264913a
+twitter_username: _robertkirk
 minima:
   social_links:
-    github:  RobertKirk
-    linkedin:  robert-kirk-62264913a
+    github: RobertKirk
+    linkedin: robert-kirk-62264913a
+    twitter: _robertkirk
 
 show_excerpts: true
 
