@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "What is Interpretability?"
-date:   2020-03-17 18:30:00 +0000
-categories: interpretability safety alignment aisrp
+layout:  post
+title:   "What is Interpretability?"
+date:    2020-03-17 18:30:00 +0000
+tags:    interpretability safety alignment aisrp
 excerpt: In this post we lay out some ideas around framing interpretability research which we have found quite useful. Our framing is goal-oriented, which we believe is important for making sure interpretability research is meaningful. We also go over a variety of dimensions which we think are useful to consider when thinking about interpretability research. We wanted to have a shared vocabulary when talking about this kind of research, and found that these ideas helped us communicate effectively.
 ---
 _This post was coauthored by [Stanislav Böhm](https://github.com/spirali/) and [Tomáš Gavenčiak](https://gavento.ucw.cz/), and cross posted to the [Alignment Forum](https://www.alignmentforum.org/posts/rSMbGFfsLMB3GWZtX/what-is-interpretability)_

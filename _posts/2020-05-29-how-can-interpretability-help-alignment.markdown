@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "How can Interpretability Help Alignment?"
-date:   2020-05-29 10:00:00 +0000
-categories: interpretability safety alignment aisrp
+layout:  post
+title:   "How can Interpretability Help Alignment?"
+date:    2020-05-28 10:00:00 +0000
+tags:    interpretability safety alignment aisrp
 excerpt: We've previously written about what interpretability research might be. In this post we think about how different kinds of interpretability research (even loosely formulated) can help AI alignment research agendas and proposals. It seems that there are meaningful differences in the kind of tools and research different agendas would benefit from, and we aim to make these differences clearer. This is useful in helping prioritise what kinds of interpretability research are likely worth doing.
 ---
 
