@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Optimal Illusions
+title: Robert Kirk
 author: Robert Kirk
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about AI, Machine learning, AI safety, Reinforcement Learning, Interpretability and who knows what else.
+  A blog about AI, NLP, RL, Meta Learning, AI safety, Interpretability and who knows what else.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: RobertKirk
@@ -32,6 +32,10 @@ minima:
     github: RobertKirk
     linkedin: robert-kirk-62264913a
     twitter: _robertkirk
+
+header_pages:
+  - index.markdown
+  - posts.markdown
 
 show_excerpts: true
 
